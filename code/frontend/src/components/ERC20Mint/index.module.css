@@ -1,0 +1,30 @@
+.body{
+    width: 760px;
+    margin: 12px auto;
+    padding: 48px;
+}
+
+.floatFooter>div{
+    /* top: 200px;
+    position:fixed;
+    right:100px; */
+    background:#fff;
+    z-index: 100;
+    border-radius:8px;
+}
+
+.batchButton{
+    width: 100%;
+    text-align:center;
+    margin-top: 44px;
+}
+.label{
+    display:inline-block;
+    width: 75px;
+}
+
+.successIcon{
+    font-size: 18px;
+    margin-right: 14px;
+    color: rgba(0, 125, 40, 1);
+}

@@ -1,0 +1,20 @@
+.body{
+    min-width: 760px;
+    width: 80%;
+    margin: 12px auto;
+    padding: 48px;
+}
+
+.steps{
+    margin-bottom: 48px;
+}
+
+.form{
+    width: 760px;
+    margin:auto;
+}
+
+.btnWrapper{
+    text-align:center;
+    padding: 12px;
+}

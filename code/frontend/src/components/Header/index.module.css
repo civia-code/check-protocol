@@ -1,0 +1,18 @@
+.title{
+    text-align:center;
+    --line-height: 80px;
+    font-size:32px;
+    background:#DEFAE1;
+    font-family: p-Bold;
+    color: rgba(0, 125, 40, 1);
+    font-size:42px;
+    white-space: nowrap;
+    font-weight: bold;
+    padding: 30px 0;
+    height: 220px;
+    margin-bottom: 100px;
+}
+
+.title > div > div{
+    margin-top: 50px;    
+}
